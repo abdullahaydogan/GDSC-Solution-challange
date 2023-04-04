@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="please_enter_your_username">Please enter your username!</string>
+    <string name="please_enter_your_comment">Please enter your comment</string>
+    <string name="share">share</string>
+    <string name="please_enter_your_usernamee">Please enter your username</string>
+    <string name="comment">Comment</string>
+    <string name="username">Username</string>
+</resources>
